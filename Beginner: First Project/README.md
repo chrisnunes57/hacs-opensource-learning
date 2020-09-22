@@ -142,7 +142,7 @@ Hello, <em>World!</em>
 
 In this example, the text inside of the **em** tags will be italicized, while the rest will not be.
 
-![The words "Hello, World". The second word is italicized and the first word is not](../media/em.png)
+<img src="../media/em.png" alt="The words 'Hello, World'. The second word is italicized and the first word is not" width="600" align="left"></img>
 
 
 
@@ -156,7 +156,7 @@ Ok, we're close to being done with the first lesson! There is just one more thin
 
 The result of this code will be bolded **header** text, with the word "chris" italicized due to the **em** tag.
 
-![Bolded text with one word in italics](../media/header_em.png)
+<img src="../media/header_em.png" alt="Bolded text with one word in italics" width="600" align="left"></img>
 
 
 
@@ -171,7 +171,7 @@ Ok, now we have some HTML tags in our toolbox:
 
 See if you can put them together to form the output in the image below!
 
-<img src="../media/final_challenge_1.png" alt="Text saying 'Hi, my name is Chris! I know how to write HTML code. My favorite HTML tags are strong and em. Goodbye!'" width="400" align="left"></img>
+<img src="../media/final_challenge_1.png" alt="Text saying 'Hi, my name is Chris! I know how to write HTML code. My favorite HTML tags are strong and em. Goodbye!'" width="500" align="left"></img>
 
 
 
