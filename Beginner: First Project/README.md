@@ -100,5 +100,5 @@ Let's look at the keyword that we put inside of each tag, **h1**. This represent
 <p>Hello, World! But smaller.</p>
 ```
 
-In contrast, let's look at the second line of code we added. The keyword we used in our tags for this text was **p**. The **p** text represents a **paragraph** element, which is really just normal text. That's why it was so much smaller and less exciting than the **<h1>** text above it. These **paragraph** tags are useful for normal text on a website that doesn't need to stand out.
+In contrast, let's look at the second line of code we added. The keyword we used in our tags for this text was **p**. The **p** text represents a **paragraph** element, which is really just normal text. That's why it was so much smaller and less exciting than the **h1** text above it. These **paragraph** tags are useful for normal text on a website that doesn't need to stand out.
 
