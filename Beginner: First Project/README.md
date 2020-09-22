@@ -171,7 +171,11 @@ Ok, now we have some HTML tags in our toolbox:
 
 See if you can put them together to form the output in the image below!
 
-![Text saying "Hi, my name is Chris! I know how to write HTML code. My favorite HTML tags are strong and em. Goodbye!"](../media/final_challenge_1.png){:width="400px"}
+![Text saying "Hi, my name is Chris! I know how to write HTML code. My favorite HTML tags are strong and em. Goodbye!"](../media/final_challenge_1.png)
+
+```
+<!-- .element style="width: 400px" -->
+```
 
 <img src="../media/final_challenge_1.png" alt="Text saying "Hi, my name is Chris! I know how to write HTML code. My favorite HTML tags are strong and em. Goodbye!" width="400"></img>
 
