@@ -108,4 +108,41 @@ Let's take a brief minute to review: an html element looks like this `<h1>Hello,
 
 ### P, H1?? How many HTML keywords are there?
 
-Oh god, so many. There are close to 100 (!!!) HTML tags that you can use, and they all do different things. However, **h1** and **p** tags are some of the most commonly used. 
+Oh god, so many. There are close to 100 (!!!) HTML tags that you can use, and they all do different things. However, **h1** and **p** tags are some of the most commonly used. Here are some other significant tags:
+
+##### H1 - H6
+
+We already know about the **h1** tag, but there are actually many different header sizes! The **h1** tag is the largest, and it goes all the way from **h2, h3.... h6**, with **h6** being the smallest.
+
+![Many different header sizes, from biggest to smallest](../media/headers.png)
+
+
+
+##### strong
+
+The `<strong>` tag will take any text inside of it and make it bold. However, unlike the **h1** element, it will not change the size of the text! It just makes whatever content is inside of it bolder.
+
+```html
+Hello, <strong>World!</strong>
+```
+
+In this example, the text inside of the **strong** tags will be bolder than the text around it.
+
+![The words "Hello, World". The second word is much bolder than the first](../media/strong.png)
+
+
+
+##### em
+
+The **em** tag is short for "emphasis", and it will convey that you want to emphasize the content inside of the tags. Visually, the emphasized text will be italicized.
+
+```html
+Hello, <em>World!</em>
+```
+
+In this example, the text inside of the **em** tags will be italicized, while the rest will not be.
+
+![The words "Hello, World". The second word is italicized and the first word is not](../media/em.png)
+
+
+
