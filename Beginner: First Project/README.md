@@ -110,7 +110,7 @@ Let's take a brief minute to review: an html element looks like this `<h1>Hello,
 
 Oh god, so many. There are close to 100 (!!!) HTML tags that you can use, and they all do different things. However, **h1** and **p** tags are some of the most commonly used. Here are some other significant tags:
 
-##### H1 - H6
+#### H1-H6
 
 We already know about the **h1** tag, but there are actually many different header sizes! The **h1** tag is the largest, and it goes all the way from **h2, h3.... h6**, with **h6** being the smallest.
 
@@ -118,7 +118,7 @@ We already know about the **h1** tag, but there are actually many different head
 
 
 
-##### strong
+#### strong
 
 The `<strong>` tag will take any text inside of it and make it bold. However, unlike the **h1** element, it will not change the size of the text! It just makes whatever content is inside of it bolder.
 
@@ -132,7 +132,7 @@ In this example, the text inside of the **strong** tags will be bolder than the 
 
 
 
-##### em
+#### em
 
 The **em** tag is short for "emphasis", and it will convey that you want to emphasize the content inside of the tags. Visually, the emphasized text will be italicized.
 
@@ -145,4 +145,31 @@ In this example, the text inside of the **em** tags will be italicized, while th
 ![The words "Hello, World". The second word is italicized and the first word is not](../media/em.png)
 
 
+
+### Putting it all together
+
+Ok, we're close to being done with the first lesson! There is just one more thing to demonstrate. While we've shown each of these tags separately so far, it is very possible to combine them together. For example, you could use `<strong>` tags inside of a `<p>` tag, or `<em>` tags inside of an `<h1>` (among endless other combinations).
+
+```html
+<h1>Hello, my name is <em>Chris</em></h1>
+```
+
+The result of this code will be bolded **header** text, with the word "chris" italicized due to the **em** tag.
+
+![Bolded text with one word in italics](../media/header_em.png)
+
+
+
+### Final Challenge!
+
+Ok, now we have some HTML tags in our toolbox: 
+
+- Header text: **h1**, **h2**, **h3**, **h4**, **h5**, **h6**
+- Paragraph text: **p**
+- Bolded text: **strong**
+- Emphasized/Italic text: **em**
+
+See if you can put them together to form the output in the image below!
+
+![Text saying "Hi, my name is Chris! I know how to write HTML code. My favorite HTML tags are strong and em. Goodbye!"](../media/final_challenge_1.png)
 
