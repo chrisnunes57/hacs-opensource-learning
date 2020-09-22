@@ -78,3 +78,15 @@ An HTML tag has three main parts:
 - The content to display
 - A **closing** tag 
 
+You can recognize the opening and closing tags pretty easily, because they will always be wrapped in pointy brackets **<>**. Inside of the brackets will be a keyword telling the browser what kind of content the tags are for.
+
+Example:
+
+```html
+<h1>Hello, World!</h1>
+```
+
+In our first line of code from earlier, we can now recognize our opening and closing tags. Note that the closing tag has a `/` symbol in it to differentiate itself from the beginning tag.
+
+Let's look at the keyword that we put inside of each tag, **h1**. This represents a **header**, or a title. That's why it displayed the text with such a big, bold font! 
+
