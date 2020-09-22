@@ -80,7 +80,9 @@ An HTML tag has three main parts:
 
 You can recognize the opening and closing tags pretty easily, because they will always be wrapped in pointy brackets **<>**. Inside of the brackets will be a keyword telling the browser what kind of content the tags are for.
 
-Example:
+
+
+#### Example
 
 ```html
 <h1>Hello, World!</h1>
@@ -88,5 +90,15 @@ Example:
 
 In our first line of code from earlier, we can now recognize our opening and closing tags. Note that the closing tag has a `/` symbol in it to differentiate itself from the beginning tag.
 
-Let's look at the keyword that we put inside of each tag, **h1**. This represents a **header**, or a title. That's why it displayed the text with such a big, bold font! 
+Let's look at the keyword that we put inside of each tag, **h1**. This represents a **header**, or a title. That's why it displayed the text with such a big, bold font! These **header** tags are normally used for displaying the title of a webpage, or any text that needs to stand out from the rest.
+
+
+
+#### Example 2:
+
+```html
+<p>Hello, World! But smaller.</p>
+```
+
+In contrast, let's look at the second line of code we added. The keyword we used in our tags for this text was **p**. The **p** text represents a **paragraph** element, which is really just normal text. That's why it was so much smaller and less exciting than the **<h1>** text above it. These **paragraph** tags are useful for normal text on a website that doesn't need to stand out.
 
