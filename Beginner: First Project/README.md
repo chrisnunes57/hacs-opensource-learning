@@ -156,7 +156,7 @@ Ok, we're close to being done with the first lesson! There is just one more thin
 
 The result of this code will be bolded **header** text, with the word "chris" italicized due to the **em** tag.
 
-<img src="../media/header_em.png" alt="Bolded text with one word in italics" width="600" align="left"></img>
+<img src="../media/header_em.png" alt="Bolded text with one word in italics" width="600" display="block"></img>
 
 
 
