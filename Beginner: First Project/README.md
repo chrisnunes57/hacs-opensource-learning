@@ -102,3 +102,10 @@ Let's look at the keyword that we put inside of each tag, **h1**. This represent
 
 In contrast, let's look at the second line of code we added. The keyword we used in our tags for this text was **p**. The **p** text represents a **paragraph** element, which is really just normal text. That's why it was so much smaller and less exciting than the **h1** text above it. These **paragraph** tags are useful for normal text on a website that doesn't need to stand out.
 
+#### Review
+
+Let's take a brief minute to review: an html element looks like this `<h1>Hello, World!</h1>`, and it will have opening and closing tags, and between them will be the content to display. With this example, the browser would display the text "Hello, World!", and the browser would know to make it **header** text because of the keyword **h1** inside of the opening and closing tags.
+
+### P, H1?? How many HTML keywords are there?
+
+Oh god, so many. There are close to 100 (!!!) HTML tags that you can use, and they all do different things. However, **h1** and **p** tags are some of the most commonly used. 
