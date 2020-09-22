@@ -7,7 +7,7 @@ This project is hosted on a website called Github! If you're not familiar with i
 
 Inside of the repository, there can be both files and folders. If you look in the main directory for the repository, you can see a list of folders, each one containing a different project. 
 
-![folders](/Users/chrisnunes/Desktop/folders.png)
+![folders](/media/folders.png)
 
 Each folder contains the following:
 
