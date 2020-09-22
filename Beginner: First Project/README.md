@@ -8,11 +8,56 @@ Hey! If you're here, you're probably ready to get started on the first project (
 
 ### Getting started on CodePen
 
-Once you have created your account at [codepen.io](https://codepen.io), we want to create a new "pen". Each basic project that you create on CodePen is called a "pen", so we will be creating a new pen for each of these lessons. You can do this from the CodePen homepage by clicking the "Pen" button in the top right.
+Once you have created your account at [codepen.io](https://codepen.io), we want to create a new "pen". Each basic project that you create on CodePen is called a "pen", so we will be creating a new pen for each of these lessons. You can do this from the CodePen homepage by clicking the "Pen" button in the top left corner.
 
 ![Button that says "Create Pen"](../media/new_pen.png)
 
 
 
+Once you've found the button and clicked it, you will be taken to a screen that looks like this.
+
+![Empty code editor](../media/blank_editor.png)
+
+This is what the CodePen code editor looks like, and this is where we will be doing all of the beginner projects. As you can see, we have three empty windows at the top labeled HTML, CSS, and JS (javascript). These are the three main technologies that make up all websites, and each empty window will each be filled with code in that specific programming language.
+
+When we write code in these top 3 windows, the result will appear in the bottom half of the screen.
+
+### Let's start coding!
+
+For right now, we're only going to be writing code in HTML, so we don't need to see the CSS and Javascript windows. We can hide them by clicking the little arrow icon in the top right corner of the HTML window and clicking on *"Maximize HTML Editor"*. 
+
+![Popup window that lets you control the HTML editor"](../media/maximize_html.png)
 
 
+
+Once we've done this, we can start writing code! But in order to do this, we need to know how HTML works.
+
+### What is HTML? 
+
+HTML is an acronym that is short for "HyperText Markup Language". This doesn't really mean much, but it is important to note that HTML is a *markup* language, and not a *programming* language. 
+
+A programming language is probably what you traditionally associate with coding: loops, logic, algorithms, and much more. These are programming languages like Python, Java, and Javascript that you've probably heard of or used. However, a markup language is distinctly different from a programming language.
+
+Unlike a programming language where you write a program with instructions for the computer, markup languages are **presentational**, meaning they just specifiy how the computer should display data. In other words, HTML is merely a way of telling the computer how it should organize and structure data in a webpage. 
+
+### Our first HTML code
+
+To get started with HTML, enter the following line of code in the HTML editor:
+
+```html
+<h1>Hello, World!</h1>
+```
+
+Give the pen a second or two to update, and you should see the text "Hello, World!" appear in the output box below in a big, bold font. Nice!
+
+Next, add the following line of code on the second line of your HTML editor.
+
+```html
+<p>Hello, World! But smaller.</p>
+```
+
+If all went well, you should be seeing the output in this image.
+
+![Two different lines of text. One is big, one is small.](../media/first_output.png)
+
+Ok, cool! Let's take a step back and look at what we did. 
