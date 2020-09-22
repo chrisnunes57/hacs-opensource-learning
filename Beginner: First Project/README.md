@@ -14,7 +14,13 @@ Once you have created your account at [codepen.io](https://codepen.io), we want 
 
 
 
+
+
 Once you've found the button and clicked it, you will be taken to a screen that looks like this.
+
+
+
+
 
 ![Empty code editor](../media/blank_editor.png)
 
@@ -27,6 +33,8 @@ When we write code in these top 3 windows, the result will appear in the bottom 
 For right now, we're only going to be writing code in HTML, so we don't need to see the CSS and Javascript windows. We can hide them by clicking the little arrow icon in the top right corner of the HTML window and clicking on *"Maximize HTML Editor"*. 
 
 ![Popup window that lets you control the HTML editor"](../media/maximize_html.png)
+
+
 
 
 
@@ -60,4 +68,13 @@ If all went well, you should be seeing the output in this image.
 
 ![Two different lines of text. One is big, one is small.](../media/first_output.png)
 
-Ok, cool! Let's take a step back and look at what we did. 
+Ok, cool! But how did the web browser know how to make the text different sizes for each one? The answer is a fundamental part of HTML: **tags**. In HTML, *tags* are used in the code to tell the web browser how to format and display the content. 
+
+![An image showing opening tags, closing tags, and the content in between](../media/tags.webp)
+
+An HTML tag has three main parts: 
+
+- An **opening** tag
+- The content to display
+- A **closing** tag 
+
