@@ -128,9 +128,7 @@ Hello, <strong>World!</strong>
 
 In this example, the text inside of the **strong** tags will be bolder than the text around it.
 
-![The words "Hello, World". The second word is much bolder than the first](../media/strong.png)
-
-
+<img src="../media/strong.png" alt="The words 'Hello, World'. The second word is much bolder than the first" width="600" align="left"></img>
 
 #### em
 
@@ -142,7 +140,7 @@ Hello, <em>World!</em>
 
 In this example, the text inside of the **em** tags will be italicized, while the rest will not be.
 
-<img src="../media/em.png" alt="The words 'Hello, World'. The second word is italicized and the first word is not" width="600" align="left"></img>
+<img src="../media/em.png" alt="The words 'Hello, World'. The second word is italicized and the first word is not" width="600" display="block"></img>
 
 
 
