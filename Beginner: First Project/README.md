@@ -128,7 +128,7 @@ Hello, <strong>World!</strong>
 
 In this example, the text inside of the **strong** tags will be bolder than the text around it.
 
-<img src="../media/strong.png" alt="The words 'Hello, World'. The second word is much bolder than the first" width="600" align="left"></img>
+<img src="../media/strong.png" alt="The words 'Hello, World'. The second word is much bolder than the first" width="600" display="block"></img>
 
 #### em
 
